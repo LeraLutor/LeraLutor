@@ -1,4 +1,3 @@
-🌱 
 <div id="header" align="center">
     <h1>Hi there, I'm Valerie Lepina🐢 </h1>
     <h3>Data Scientist from Moscow</h3>
