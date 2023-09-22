@@ -5,8 +5,7 @@
 
 ### About me
 - 🌱 I’m interested in **Machine Learning** and **NLP**
-- 📝 I like to learn new things and do self-study.
-- 🌍 I speak English
+- 📝 Also interested in Game Development in **GameMaker**
 
 ---
 
