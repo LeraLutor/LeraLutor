@@ -4,8 +4,8 @@
 </div>
 
 ### About me
-- 🌱 I’m interested in **Machine Learning** and **NLP**
-- 📝 Also interested in Game Development in **GameMaker**
+- 🌱 I’m interested in **Machine Learning** and **Analytics**
+- 📝 Also interested in **Data engineering**
 
 ---
 
