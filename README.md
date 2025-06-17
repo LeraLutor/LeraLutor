@@ -1,13 +1,4 @@
-<div id="header" align="center">
-    <h1>Hi there, I'm Valerie Lepina🐢 </h1>
-    <h3>Data Scientist from Moscow</h3>
-</div>
 
-### About me
-- 🌱 I’m interested in **Machine Learning** and **Analytics**
-- 📝 Also interested in **Data engineering**
-
----
 
 ### Languages and tools
 
